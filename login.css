@@ -1,0 +1,67 @@
+#main{
+    height:100%;
+    overflow: hidden;
+    background-color:#b3e5fc; 
+}
+#mid{
+    height:80%;
+    width:40%;
+    float:left;
+    background-image:url(Untitled-2.GIF);
+    background-size:100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    align-content:flex-end;
+    border-radius: 50%;
+    position:absolute;
+    left:30%;
+    top:10%;
+}
+#left{
+    
+}
+#leftup{
+    height:10%;
+    width:100%;
+    border:;
+    
+    position:relative;
+}
+#leftdown{
+    width:30%;
+    height:80%;
+    border:;
+    float:left;
+    position: relative;
+    height:80%;
+    background-image: url(login%20text.png);
+    background-size: 160%;
+    background-repeat: no-repeat;
+    align-items: baseline;
+    background-color:;
+    
+}
+#mid:hover {
+    margin: auto;
+    -webkit-animation: mymove 5s infinite; /* Chrome, Safari, Opera */
+    animation: mymove 5s infinite;
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes mymove {
+    50% {-webkit-transform: rotate(360deg);}
+}
+
+/* Standard syntax */
+@keyframes mymove {
+    50% {transform: rotate(360deg);}
+}
+
+#right{
+	float:left;
+	left:75%;
+	top:40%
+    width:30%;
+	position:absolute;
+    height:1005;
+}

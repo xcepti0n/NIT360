@@ -1,0 +1,117 @@
+body{ background-repeat: no-repeat
+    background-size: contain;
+}
+.one1{
+    width:80%;
+    height:30%;
+    float:left;
+    color:antiquewhite;
+    position:absolute;
+    left:30%;
+    
+    font-size:25px;
+}
+.one2{
+    width:80%;
+    height:30%;
+    float:left;
+    color:antiquewhite;
+    position:absolute;
+        top:45%;
+    font-size:25px;
+}
+.one3{
+    width:80%;
+    height:30%;
+    float:left;
+    color:antiquewhite;
+    position:absolute;
+    top:75%;
+    left:30%;
+    font-size:25px;
+}
+.one4{
+    width:80%;
+    height:30%;
+    float:left;
+    color:antiquewhite;
+    position:absolute;
+
+    top:105%;
+    font-size:25px;
+}
+.one5{
+    width:80%;
+    height:30%;
+    float:left;
+    color:antiquewhite;
+    position:absolute;
+        top:135%;    left:30%;
+    font-size:25px;
+}
+.one6{
+    width:80%;
+    height:30%;
+    float:left;
+    color:antiquewhite;
+    position:absolute;
+    top:165%;
+   
+    font-size:25px;
+}
+#img{
+    height:100%;
+    width:100%;
+    
+}
+
+
+#pic1{
+    height:100%;
+    width:100%;
+    border-radius: 50%;
+    position: absolute;
+}
+#pic2{
+    height:100%;
+    width:100%;
+     border-radius:50% ;
+    position: absolute;
+    top:45%;
+    left:58%;
+}
+#pic3{
+    height:100%;
+    width:100%;
+     border-radius: 50%;
+    position: absolute;
+    top:75%;
+}
+
+#pic4{
+    height:100%;
+    width:100%;
+    border-radius: 50%;
+    position: absolute;
+    top:105%;
+    left:58%
+        
+}
+#pic5{
+    height:100%;
+    width:100%;
+     border-radius:50% ;
+    position: absolute;
+    top:135%;
+    
+}
+#pic6{
+    height:100%;
+    width:100%;
+     border-radius: 50%;
+    position: absolute;
+    top:165%;left:58%;
+}
+
+.two{ height:30%;
+       width:25%;}
